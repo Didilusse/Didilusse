@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Didilusse
-- 👀 I’m interested in coding games using Unity
-- 🌱 I’m currently learning C# networking
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently swift to make IOS apps
 - 📫 How to reach me adildevgame@gmail.com
 
 <!---
