@@ -61,8 +61,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Didilusse&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Wow" height="165" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Didilusse&locale=en&mode=weekly&theme=darcula&hide_border=false&border_radius=8&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Didilusse&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Wow" height="157" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Didilusse&locale=en&mode=weekly&theme=darcula&hide_border=false&border_radius=8&order=3" height="177" alt="streak graph"  />
 </div>
 
 ###
